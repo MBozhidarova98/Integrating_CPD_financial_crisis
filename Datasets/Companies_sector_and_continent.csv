@@ -1,0 +1,399 @@
+,Company,Sector,Continent
+0,CREDIT SUISSE GROUP AG,Finance,Europe
+1,ROYAL BANK OF CANADA,Finance,North America
+2,UNICREDIT SPA,Finance,Europe
+3,"CHINA CONSTRUCTION BANK CO., LTD",Finance,Asia
+4,TORONTO DOMINION BANK,Finance,North America
+5,BANCO BILBAO VIZCAYA ARGENTARIA SA,Finance,Europe
+6,DEUTSCHE BANK AG,Finance,Europe
+7,STATE BANK OF INDIA,Finance,Asia
+8,BANK OF NOVA SCOTIA (THE) - SCOTIABANK,Finance,North America
+9,INTESA SANPAOLO,Finance,Europe
+10,BANK OF MONTREAL,Finance,North America
+11,COMMONWEALTH BANK OF AUSTRALIA,Finance,Other
+12,WESTPAC BANKING CORPORATION,Finance,Other
+13,CANADIAN IMPERIAL BANK OF COMMERCE,Finance,North America
+14,COMMERZBANK AG,Finance,Europe
+15,ICICI BANK LIMITED,Finance,Asia
+16,UNITED OVERSEAS BANK LIMITED UOB,Finance,Asia
+17,RAIFFEISEN BANK INTERNATIONAL AG,Finance,Europe
+18,NATIONAL BANK OF CANADA,Finance,North America
+19,KRUNG THAI BANK PUBLIC COMPANY LIMITED,Finance,Asia
+20,BANCA MONTE DEI PASCHI DI SIENA SPA,Finance,Europe
+21,SOCIETE GENERALE COTE D'IVOIRE,Finance,Other
+22,ERSTE GROUP BANK AG,Finance,Europe
+23,SHINSEI BANK LIMITED,Finance,Asia
+24,NATIONAL AUSTRALIA BANK LIMITED,Finance,Other
+25,ASSICURAZIONI GENERALI SPA,Finance,Europe
+26,METLIFE INC.,Finance,North America
+27,AVIVA PLC,Finance,Europe
+28,MANULIFE FINANCIAL CORP,Finance,North America
+29,SUN LIFE FINANCIAL INC.,Finance,North America
+30,UNIPOL GRUPPO SPA,Finance,Europe
+31,LOEWS CORP.,Finance,North America
+32,MOLINA HEALTHCARE INC.,Finance,North America
+33,UNITEDHEALTH GROUP INC.,Finance,North America
+34,BNP PARIBAS CARDIF SA,Finance,Europe
+35,ITOCHU CORPORATION,Finance,Asia
+36,MITSUBISHI CORPORATION,Finance,Asia
+37,JPMORGAN CHASE & CO,Finance,North America
+38,CITIGROUP INC,Finance,North America
+39,CAPITAL ONE FINANCIAL CORPORATION,Finance,North America
+40,BARCLAYS PLC,Finance,Europe
+43,"SUMITOMO MITSUI TRUST HOLDINGS, INC",Finance,Asia
+44,UNIQA INSURANCE GROUP AG,Finance,Europe
+46,"MITSUBISHI UFJ MORGAN STANLEY SECURITIES CO., LTD.",Finance,Asia
+47,MOODY'S CORPORATION,Finance,North America
+48,KBC GROEP NV KBC GROUPE SA,Finance,Europe
+50,EQUIFAX INC,Finance,North America
+51,PETROCHINA COMPANY LIMITED,Oil and gas industry,Asia
+52,TOTAL SA,Oil and gas industry,Europe
+53,ENI S.P.A.,Oil and gas industry,Europe
+54,EQUINOR ASA,Oil and gas industry,Europe
+55,CONOCOPHILLIPS,Oil and gas industry,North America
+56,OMV AKTIENGESELLSCHAFT,Oil and gas industry,Europe
+57,EOG RESOURCES INC,Oil and gas industry,North America
+58,SINOPEC OILFIELD SERVICE CORPORATION,Oil and gas industry,Asia
+59,HELLENIC PETROLEUM S.A.,Oil and gas industry,Europe
+60,PIONEER NATURAL RESOURCES CO,Oil and gas industry,North America
+61,INPEX CORPORATION,Oil and gas industry,Asia
+62,ORIGIN ENERGY LIMITED,Oil and gas industry,Other
+63,"PAR PACIFIC HOLDINGS, INC.",Oil and gas industry,North America
+64,MARATHON OIL CORPORATION,Oil and gas industry,North America
+65,SANTOS LTD,Oil and gas industry,Other
+66,MURPHY OIL CORPORATION,Oil and gas industry,North America
+67,CNX RESOURCES CORPORATION,Oil and gas industry,North America
+68,DNO ASA,Oil and gas industry,Europe
+69,CALLON PETROLEUM CO,Oil and gas industry,North America
+70,"VAALCO ENERGY, INC.",Oil and gas industry,North America
+71,BP PLC,Oil and gas industry,Europe
+72,ROYAL DUTCH SHELL PLC,Oil and gas industry,Europe
+73,EXXON MOBIL CORP,Oil and gas industry,North America
+74,VALERO ENERGY CORP,Oil and gas industry,North America
+75,RPM INTERNATIONAL INC.,Oil and gas industry,North America
+76,FUCHS PETROLUB SE,Oil and gas industry,Europe
+77,NATIONAL GRID PLC,Oil and gas industry,Europe
+78,TOKYO GAS CO LTD,Oil and gas industry,Asia
+79,OSAKA GAS CO LTD,Oil and gas industry,Asia
+80,SEMPRA ENERGY,Oil and gas industry,North America
+81,SNAM S.P.A.,Oil and gas industry,Europe
+82,WILLIAMS COMPANIES INC,Oil and gas industry,North America
+83,"ENLINK MIDSTREAM, LLC",Oil and gas industry,North America
+84,REPSOL SPA,Oil and gas industry,Europe
+85,COSCO SHIPPING ENERGY TRANSPORTATION COMPANY LIMITED,Oil and gas industry,Asia
+86,STEALTHGAS INC.,Oil and gas industry,Other
+87,"WALGREENS BOOTS ALLIANCE, INC.,",Pharmaceutical industry,North America
+88,RITE AID CORP,Pharmaceutical industry,North America
+89,JOHNSON & JOHNSON,Pharmaceutical industry,North America
+90,ROCHE HOLDING AG,Pharmaceutical industry,Europe
+91,BAYER AG,Pharmaceutical industry,Europe
+92,NOVARTIS AG,Pharmaceutical industry,Europe
+93,PFIZER INC,Pharmaceutical industry,North America
+94,SANOFI,Pharmaceutical industry,Europe
+95,AMGEN INCORPORATED,Pharmaceutical industry,North America
+96,GILEAD SCIENCES INC,Pharmaceutical industry,North America
+97,ELI LILLY AND COMPANY,Pharmaceutical industry,North America
+98,TEVA PHARMACEUTICAL INDUSTRIES LIMITED,Pharmaceutical industry,Asia
+99,SOLVAY SA,Pharmaceutical industry,Europe
+100,BIOGEN INC.,Pharmaceutical industry,North America
+101,ASTELLAS PHARMA INC,Pharmaceutical industry,Asia
+102,AKZO NOBEL NV,Pharmaceutical industry,Europe
+103,DAIICHI SANKYO COMPANY LIMITED,Pharmaceutical industry,Asia
+104,REGENERON PHARMACEUTICALS INC,Pharmaceutical industry,North America
+105,UCB S.A,Pharmaceutical industry,Europe
+106,SUMITOMO DAINIPPON PHARMA CO LTD,Pharmaceutical industry,Asia
+107,VERTEX PHARMACEUTICALS INCORPORATED,Pharmaceutical industry,North America
+108,"LANNETT COMPANY, INC.",Pharmaceutical industry,North America
+109,"ANI PHARMACEUTICALS, INC.",Pharmaceutical industry,North America
+110,TRINITY BIOTECH PLC,Pharmaceutical industry,Europe
+111,RIGEL PHARMACEUTICALS INC,Pharmaceutical industry,North America
+112,AVADEL PHARMACEUTICALS PLC,Pharmaceutical industry,Europe
+113,TITAN PHARMACEUTICALS INC,Pharmaceutical industry,North America
+114,SANTEN PHARMACEUTICAL CO LTD,Pharmaceutical industry,Asia
+115,AMERISOURCEBERGEN CORP,Pharmaceutical industry,North America
+116,MCKESSON CORPORATION,Pharmaceutical industry,North America
+117,CARDINAL HEALTH INC,Pharmaceutical industry,North America
+118,HERBALIFE NUTRITION LIMITED,Pharmaceutical industry,North America
+119,PERRIGO COMPANY PUBLIC LIMITED COMPANY,Pharmaceutical industry,Europe
+120,BEIERSDORF AG,Pharmaceutical industry,Europe
+121,COLGATE PALMOLIVE CO,Pharmaceutical industry,North America
+122,ESTEE LAUDER COMPANIES INC. (THE),Pharmaceutical industry,North America
+123,TENNECO INC.,Automotive industry,North America
+124,BORGWARNER INC,Automotive industry,North America
+125,"AUTOLIV, INC.",Automotive industry,North America
+126,LINAMAR CORPORATION,Automotive industry,North America
+127,KONGSBERG AUTOMOTIVE HOLDING ASA,Automotive industry,Europe
+128,PEUGEOT,Automotive industry,Europe
+129,RENAULT,Automotive industry,Europe
+130,BAYERISCHE MOTOREN WERKE AG,Automotive industry,Europe
+131,VOLKSWAGEN AG,Automotive industry,Europe
+132,TATA MOTORS LIMITED,Automotive industry,Asia
+133,NISSAN MOTOR CO LTD,Automotive industry,Asia
+134,FORD MOTOR CO,Automotive industry,North America
+135,"HYUNDAI MOTOR CO.,LTD.",Automotive industry,Asia
+136,SUZUKI MOTOR CORPORATION,Automotive industry,Asia
+137,MAZDA MOTOR CORPORATION,Automotive industry,Asia
+138,SUBARU CORPORATION,Automotive industry,Asia
+139,PACCAR INC,Automotive industry,North America
+140,MITSUBISHI MOTORS CORPORATION,Automotive industry,Asia
+141,TOYOTA INDUSTRIES CORPORATION,Automotive industry,Asia
+142,ROSENBAUER INTERNATIONAL AG,Automotive industry,Europe
+143,HONDA MOTOR CO LTD,Automotive industry,Asia
+144,KAWASAKI HEAVY INDUSTRIES LTD,Automotive industry,Asia
+145,CONTINENTAL AG,Automotive industry,Europe
+146,BRIDGESTONE CORPORATION,Automotive industry,Asia
+147,COMPAGNIE GENERALE DES ETABLISSEMENTS MICHELIN,Automotive industry,Europe
+148,GOODYEAR TIRE & RUBBER CO,Automotive industry,North America
+149,THE YOKOHAMA RUBBER COMPANY LIMITED,Automotive industry,Asia
+150,TOYO TIRE CORPORATION,Automotive industry,Asia
+151,"ZHEJIANG GEELY HOLDING GROUP CO., LTD.",Automotive industry,Asia
+152,GENTEX CORP,Automotive industry,North America
+153,RYDER SYSTEM INC,Automotive industry,North America
+154,AUTOZONE INC,Automotive industry,North America
+155,SONIC AUTOMOTIVE INC,Automotive industry,North America
+156,AUTONATION INC,Automotive industry,North America
+158,VOLKSWAGEN AG 2,Automotive industry,Europe
+159,FRAPORT AG,Airline industry,Europe
+160,DEUTSCHE LUFTHANSA AG,Airline industry,Europe
+161,CHINA EASTERN AIRLINES CORPORATION LIMITED,Airline industry,Asia
+162,SINGAPORE AIRLINES LTD,Airline industry,Asia
+163,LATAM AIRLINES GROUP S.A.,Airline industry,Other
+164,BOEING COMPANY (THE),Airline industry,North America
+165,AIRBUS SE,Airline industry,Europe
+166,LOCKHEED MARTIN CORP,Airline industry,North America
+167,HONEYWELL INTERNATIONAL INC,Airline industry,North America
+168,NORTHROP GRUMMAN CORPORATION,Airline industry,North America
+169,SAFRAN,Airline industry,Europe
+170,BAE SYSTEMS PLC,Airline industry,Europe
+171,ROLLS-ROYCE HOLDINGS PLC,Airline industry,Europe
+172,LEONARDO S.P.A.,Airline industry,Europe
+173,TEXTRON INC,Airline industry,North America
+174,CHINA EASTERN AIRLINES CORPORATION LIMITED2,Airline industry,Asia
+175,MEGGITT PLC,Airline industry,Europe
+176,UNILEVER PLC,Food industry,Europe
+177,NESTLE S.A.,Food industry,Europe
+178,ASSOCIATED BRITISH FOODS PLC,Food industry,Europe
+179,MCCORMICK & CO INC,Food industry,North America
+180,"CONAGRA BRANDS, INC.",Food industry,North America
+181,TESCO PLC,Food industry,Europe
+182,WALMART INC.,Food industry,North America
+183,KROGER CO,Food industry,North America
+184,CHINA RESOURCES BEER (HOLDINGS) COMPANY LIMITED,Food industry,Asia
+185,COSTCO WHOLESALE CORP,Food industry,North America
+186,TARGET CORP,Food industry,North America
+187,CECONOMY AG,Food industry,Europe
+188,KERING,Food industry,Europe
+189,SEARS HOLDINGS CORPORATION,Food industry,North America
+190,MARKS AND SPENCER GROUP PLC,Food industry,Europe
+191,WOOLWORTHS HOLDINGS LIMITED,Food industry,Other
+192,PEPSICO INC,Food industry,North America
+193,HEINEKEN NV,Food industry,Europe
+194,DIAGEO PLC,Food industry,Europe
+195,"COCA-COLA CONSOLIDATED, INC.",Food industry,North America
+196,"MONDELEZ INTERNATIONAL, INC.",Food industry,North America
+197,KELLOGG COMPANY,Food industry,North America
+199,TYSON FOODS INC.,Food industry,North America
+200,CHINA PETROLEUM & CHEMICAL CORPORATION,Mining activities,Asia
+201,BHP GROUP LIMITED,Mining activities,Other
+202,CHINA SHENHUA ENERGY COMPANY LIMITED,Mining activities,Asia
+203,HALLIBURTON CO,Mining activities,North America
+204,OVINTIV CANADA ULC,Mining activities,North America
+205,FUJI OIL CO LTD,Mining activities,Asia
+206,MATRIX SERVICE CO,Mining activities,North America
+207,PGS ASA,Mining activities,Europe
+208,"HELMERICH & PAYNE, INC.",Mining activities,North America
+209,RIO TINTO LIMITED,Mining activities,Other
+210,ANGLO AMERICAN PLC,Mining activities,Europe
+211,ANTOFAGASTA PLC,Mining activities,Europe
+212,NORZINC LTD.,Mining activities,North America
+213,CATERPILLAR INC,Mining activities,North America
+214,DEERE & CO,Mining activities,North America
+215,OCEANEERING INTERNATIONAL INC,Mining activities,North America
+216,OIL STATES INTERNATIONAL INC,Mining activities,North America
+217,YARA INTERNATIONAL ASA,Mining activities,Europe
+218,IMERYS,Mining activities,Europe
+219,THYSSEN SCHACHTBAU GMBH,Mining activities,Europe
+220,ELECTRICITE DE FRANCE,Electricity,Europe
+221,ENEL SPA,Electricity,Europe
+222,KOREA ELECTRIC POWER CORPORATION,Electricity,Asia
+223,E.ON SE,Electricity,Europe
+224,RWE AG,Electricity,Europe
+225,THE KANSAI ELECTRIC POWER COMPANY INCORPORATED,Electricity,Asia
+226,"DOMINION ENERGY, INC.",Electricity,North America
+227,DTE ENERGY CO,Electricity,North America
+228,"CENTERPOINT ENERGY, INC.",Electricity,North America
+229,ENTERGY CORP,Electricity,North America
+230,"WEC ENERGY GROUP, INC.",Electricity,North America
+231,AMEREN CORP,Electricity,North America
+232,VERBUND AG,Electricity,Europe
+233,MVV ENERGIE AG,Electricity,Europe
+234,ENERGIEKONTOR AG,Electricity,Europe
+235,SIEMENS AG,Electricity,Europe
+236,CUMMINS INC.,Electricity,North America
+237,MICROSOFT CORPORATION,Software industry,North America
+238,ADOBE INC,Software industry,North America
+239,INTUIT INC,Software industry,North America
+240,ELECTRONIC ARTS INC,Software industry,North America
+241,SYNOPSYS INC,Software industry,North America
+242,AUTODESK INC,Software industry,North America
+243,TRIMBLE INC.,Software industry,North America
+244,CITRIX SYSTEMS INC,Software industry,North America
+245,NORTONLIFELOCK INC.,Software industry,North America
+246,CADENCE DESIGN SYSTEMS INC,Software industry,North America
+247,ALLSCRIPTS HEALTHCARE SOLUTIONS INC,Software industry,North America
+248,EPLUS INC,Software industry,North America
+249,ANSYS INC,Software industry,North America
+250,NATIONAL INSTRUMENTS CORP,Software industry,North America
+251,MANHATTAN ASSOCIATES INC,Software industry,North America
+252,MICROSTRATEGY INC,Software industry,North America
+253,IMMERSION CORP,Software industry,North America
+254,SOFTBANK GROUP CORP,Software industry,Asia
+256,INTERNATIONAL BUSINESS MACHINES CORP,Software industry,North America
+257,COGNIZANT TECHNOLOGY SOLUTIONS CORP,Software industry,North America
+258,INFOSYS LIMITED,Software industry,Asia
+259,BECHTLE AG,Software industry,Europe
+260,CACI INTERNATIONAL INC,Software industry,North America
+261,NOMURA RESEARCH INSTITUTE LTD,Software industry,Asia
+262,DASSAULT SYSTEMES,Software industry,Europe
+263,AKAMAI TECHNOLOGIES INC,Software industry,North America
+264,"OMNICELL, INC.",Software industry,North America
+265,REALNETWORKS INC,Software industry,North America
+266,SYZYGY AG,Software industry,Europe
+267,SAP SE,Software industry,Europe
+268,ORACLE CORPORATION JAPAN,Software industry,Asia
+269,USU SOFTWARE AG,Software industry,Europe
+270,SOFTING AG,Software industry,Europe
+271,ATOSS SOFTWARE AG,Software industry,Europe
+272,PC CONNECTION INC,Software industry,North America
+273,NINTENDO CO LTD,Software industry,Asia
+274,FISERV INC,Software industry,North America
+275,"ROPER TECHNOLOGIES, INC.",Software industry,North America
+276,AB ELECTROLUX,Electronics industry,Europe
+278,APPLE INC.,Electronics industry,North America
+279,"SAMSUNG ELECTRONICS CO.,LTD.",Electronics industry,Asia
+280,LG ELECTRONICS INC.,Electronics industry,Asia
+281,CISCO SYSTEMS INC,Electronics industry,North America
+282,NOKIA OYJ,Electronics industry,Europe
+283,QUALCOMM INC,Electronics industry,North America
+284,CIENA CORP,Electronics industry,North America
+285,INTEL CORP,Electronics industry,North America
+286,TOSHIBA CORPORATION,Electronics industry,Asia
+287,"JABIL, INC.",Electronics industry,North America
+288,FLEX LIMITED,Electronics industry,Asia
+289,MICRON TECHNOLOGY INC,Electronics industry,North America
+290,SHARP CORPORATION,Electronics industry,Asia
+291,"LG DISPLAY CO.,LTD.",Electronics industry,Asia
+292,TEXAS INSTRUMENTS INC,Electronics industry,North America
+293,MURATA MANUFACTURING CO LTD,Electronics industry,Asia
+294,INFINEON TECHNOLOGIES AG,Electronics industry,Europe
+295,STMICROELECTRONICS NV,Electronics industry,Europe
+296,DELTA ELECTRONICS INC,Electronics industry,Asia
+297,AMPHENOL CORP,Electronics industry,North America
+298,DOVER CORPORATION,Electronics industry,North America
+299,ADVANCED MICRO DEVICES INC,Electronics industry,North America
+300,RENESAS ELECTRONICS CORPORATION,Electronics industry,Asia
+301,"ROCKWELL AUTOMATION, INC.",Electronics industry,North America
+302,ANALOG DEVICES INC,Electronics industry,North America
+303,"SKYWORKS SOLUTIONS, INC.",Electronics industry,North America
+304,MARVELL TECHNOLOGY GROUP LIMITED,Electronics industry,North America
+305,TTM TECHNOLOGIES INC,Electronics industry,North America
+306,TAIYO YUDEN COMPANY LIMITED,Electronics industry,Asia
+307,CIRRUS LOGIC INC,Electronics industry,North America
+308,DIODES INC,Electronics industry,North America
+309,ULTRA ELECTRONICS HOLDINGS PLC,Electronics industry,Europe
+310,MERSEN,Electronics industry,Europe
+311,ADVANCED ENERGY INDUSTRIES INC,Electronics industry,North America
+312,AXT INC,Electronics industry,North America
+313,FUELCELL ENERGY INC,Electronics industry,North America
+314,THALES DIS FRANCE SA,Electronics industry,Europe
+315,HITACHI LTD,Electronics industry,Asia
+316,HP INC.,Electronics industry,North America
+317,LENOVO GROUP LIMITED,Electronics industry,Asia
+318,FUJITSU LIMITED,Electronics industry,Asia
+319,NEC CORPORATION,Electronics industry,Asia
+320,EMC CORP,Electronics industry,North America
+321,WESTERN DIGITAL CORP,Electronics industry,North America
+322,NVIDIA CORP,Electronics industry,North America
+323,ZEBRA TECHNOLOGIES CORP,Electronics industry,North America
+324,"DIEBOLD NIXDORF, INC",Electronics industry,North America
+325,STRATASYS LIMITED,Electronics industry,Asia
+326,SEACHANGE INTERNATIONAL INC,Electronics industry,North America
+327,RADCOM LIMITED,Electronics industry,Asia
+328,ANOTO GROUP AB,Electronics industry,Europe
+329,"BEST BUY CO, INC",Electronics industry,North America
+330,GAMESTOP CORP.,Electronics industry,North America
+331,MEDION AG,Electronics industry,Europe
+332,PLANTRONICS INC.,Electronics industry,North America
+334,PANASONIC CORPORATION,Electronics industry,Asia
+335,KONINKLIJKE PHILIPS N.V.,Electronics industry,Europe
+337,DEUTSCHE TELEKOM AG,Telecommunications industry,Europe
+338,NIPPON TELEGRAPH AND TELEPHONE CORPORATION,Telecommunications industry,Asia
+339,VERIZON COMMUNICATIONS INC,Telecommunications industry,North America
+340,"NETFLIX, INC.",Telecommunications industry,North America
+341,PLDT INC.,Telecommunications industry,Asia
+342,VODAFONE GROUP PLC,Telecommunications industry,Europe
+343,BT GROUP PLC,Telecommunications industry,Europe
+344,TELSTRA CORPORATION LIMITED,Telecommunications industry,Other
+345,BAIDU INCORPORATED,Telecommunications industry,North America
+346,PCCW LIMITED,Telecommunications industry,Asia
+348,JOHNSON MATTHEY PLC,Chemicals,Europe
+349,MITSUI CHEMICALS INC,Chemicals,Asia
+350,SANYO CHEMICAL INDUSTRIES LTD,Chemicals,Asia
+351,FMC CORP,Chemicals,North America
+352,HENKEL AG & CO.,Chemicals,Europe
+353,LANXESS AG,Chemicals,Europe
+354,QUAKER CHEMICAL CORP,Chemicals,North America
+355,WESTLAKE CHEMICAL PARTNERS LP,Chemicals,North America
+356,WILLIAMS SONOMA INC,Others,North America
+357,SEB SA,Others,Europe
+358,ROBERT HALF INTERNATIONAL INC.,Others,North America
+359,TENET HEALTHCARE CORP,Others,North America
+360,MASTEC INC,Others,North America
+361,"EXPEDIA GROUP, INC.",Others,North America
+362,PARKER HANNIFIN CORP,Others,North America
+363,LINDE GMBH,Others,Europe
+364,AVIENT CORP,Others,North America
+365,FEDEX CORP,Others,North America
+366,"WESCO INTERNATIONAL, INC.",Others,North America
+367,NEXITY,Others,Europe
+368,SPX CORP,Others,North America
+369,WORTHINGTON INDUSTRIES INC,Others,North America
+370,QUANTA SERVICES INC,Others,North America
+371,IVU TRAFFIC TECHNOLOGIES AG,Others,Europe
+372,DOWA HOLDINGS CO LTD,Others,Asia
+373,BILFINGER SE,Others,Europe
+374,"POSCO CHEMICAL CO.,LTD.",Others,Asia
+375,ODP CORPORATION,Others,North America
+376,CORNING INC,Others,North America
+377,ADIDAS AG,Others,Europe
+378,PROCTER & GAMBLE CO,Others,North America
+379,WOLFORD AG,Others,Europe
+380,"FOSSIL GROUP, INC.",Others,North America
+381,MATTEL INC,Others,North America
+382,CLOROX CO,Others,North America
+383,SALZGITTER AG,Others,Europe
+384,PPG INDUSTRIES INC,Others,North America
+385,HASBRO INC,Others,North America
+386,HELEN OF TROY LIMITED,Others,North America
+387,FUJIFILM HOLDINGS CORPORATION,Others,Asia
+388,PITNEY BOWES INC,Others,North America
+389,LVMH MOET HENNESSY LOUIS VUITTON,Others,Europe
+390,SANDERSON FARMS INC,Others,North America
+391,MASCO CORP,Others,North America
+392,"AMAZON.COM, INC.",Others,North America
+393,CALLAWAY GOLF CO,Others,North America
+394,DEUTSCHE POST AG,Others,Europe
+395,AMERICAN TOWER CORPORATION,Others,North America
+396,OMNICOM GROUP INC,Others,North America
+397,SUMITOMO HEAVY INDUSTRIES LTD,Others,Asia
+398,EBAY INC,Others,North America
+399,NIPPON STEEL CORPORATION,Others,Asia
+400,TENARIS S.A.,Others,Europe
+401,"CROWN HOLDINGS, INC.",Others,North America
+402,WHIRLPOOL CORP,Others,North America
+403,JSR CORPORATION,Others,Asia
+404,HOCHTIEF AG,Others,Europe
+405,EQUINIX INC,Others,North America
+406,KIMBERLY CLARK CORP,Others,North America
+407,WPP PLC (NEW),Others,Europe
+408,UNITED PARCEL SERVICE INC,Others,North America
