@@ -15,7 +15,7 @@ import networkx as nx
 import matplotlib.pyplot as plt
 
 #Read the data:
-df=pd.read_csv('Stock_price_data.csv')
+df=pd.read_csv('C:/Users/mbozh/OneDrive - The University of Nottingham/Desktop/Stock_price_data.csv')
 df['Date'] = pd.to_datetime(df['Date'], format='%Y-%m-%d')
 dates=list(df['Date'])
 df=df.drop('Date',axis=1)
@@ -58,7 +58,7 @@ def get_mean_curve(company_name,data_frame_of_log_returns,T):
     return(means,date)
 
 #Get the infections: 
-T=21 #set the rolling time period
+T=84 #set the rolling time period
 threshold=0.9 #set the volatility threshold
 dates_list=list()
 c=(list(log_returns.columns))[:-1]
@@ -86,21 +86,17 @@ infected=dict(Counter(sorted(dates_list)))
 
 
 plt.figure()
-plt.plot(list(infected.keys()),list(infected.values()),color='black')
-plt.plot(list(infected.keys())[0:450],list(infected.values())[0:450],label='Early 2000s recession')
-plt.plot(list(infected.keys())[1400:2000],list(infected.values())[1400:2000],label='The Great Recession ')
-plt.plot(list(infected.keys())[2300:2600],list(infected.values())[2300:2600],label='Cypriot financial crisis')
-plt.plot(list(infected.keys())[3300:3800],list(infected.values())[3300:3800],label='2015-16 stock market \nselloff')
-plt.plot(list(infected.keys())[4350:4800],list(infected.values())[4350:4800],label='COVID-19 recession')
-plt.xlabel('Date',fontsize=14)
-plt.ylabel('Infected companies',fontsize=14)
-plt.yticks(fontsize=12)
-plt.xticks(fontsize=12)
-plt.ylim(0,350)
-plt.legend(loc='upper left',fontsize=10)
-#ax = plt.gca()
+plt.plot(list(infected.keys())[500:],list(infected.values())[500:],color='black')
+plt.plot(list(infected.keys())[500:950],list(infected.values())[500:950],label='Early 2000s recession')
+plt.plot(list(infected.keys())[1900:2500],list(infected.values())[1900:2500],label='The Great Recession ')
+plt.plot(list(infected.keys())[2800:3120],list(infected.values())[2800:3120],label='Cypriot financial crisis')
+plt.plot(list(infected.keys())[3800:4300],list(infected.values())[3800:4300],label='2015-16 stock market \nselloff')
+plt.plot(list(infected.keys())[4850:5290],list(infected.values())[4850:5290],label='COVID-19 recession')
+plt.xlabel('Date')
+plt.ylabel('Infected companies')
+plt.legend(loc='upper left',fontsize=7.5)
+ax = plt.gca()
 #ax.legend(loc='center right',bbox_to_anchor=(1.25, 1.1),ncol=3)
-plt.show()
 
 ################ Count company as infected if it is infected in consequitive days:
 #####2008 crisis:              
@@ -122,8 +118,8 @@ for i in c:
                 companies_with_dates[i]=[date[j]]
 
 #Get the start and end date for 2008 financial crisis:  
-start_date=list(infected.keys())[1300]
-end_date=list(infected.keys())[1930]
+start_date=list(infected.keys())[1900]
+end_date=list(infected.keys())[2500]
 
 
 from datetime import date, timedelta
@@ -180,17 +176,13 @@ plt.axvline(x=datetime(2008,3,15,0,0),color='blue',linestyle='--',label='Bear St
 plt.axvline(x=datetime(2008,9,6,0,0),color='red',linestyle=':',label='Lehman Brothers \nbankruptcy')
 plt.axvline(x=datetime(2008,11,3,0,0),color='purple',dashes=[3, 5, 2, 5],label='TARP')
 plt.axvline(x=datetime(2009,2,1,0,0),color='green',linestyle='-.',label='ARRA')
-#plt.axvline(x=datetime(2008,9,15,0,0),color='green',label='Stock Market crashes')
-#plt.legend(loc='upper left',fontsize=7.5)
 ax = plt.gca()
 ax.legend(loc='upper right',fontsize=6.7)
-#ax.legend(loc='center right',bbox_to_anchor=(1.6, 0.5),ncol=1)
-#plt.savefig(2008crisis.pdf',bbox_inches='tight')
 
 
 #####Do for 2020 financial crisis:
-end_date=list(infected.keys())[4770]
-start_date=list(infected.keys())[4410]
+end_date=list(infected.keys())[5290]
+start_date=list(infected.keys())[4950]
 
 
 
@@ -254,8 +246,6 @@ plt.axvline(x=datetime(2020,7,15,0,0),color='green',linestyle='-.',label='Signif
 #plt.legend(loc='upper right',fontsize=8)
 ax = plt.gca()
 ax.legend(loc='upper right',fontsize=7.5)
-#ax.legend(loc='center right',bbox_to_anchor=(1.5, 0.5),ncol=1)
-#plt.savefig('2020crisis.pdf',bbox_inches='tight')
 
 #Get a list of infected, susceptible, recovered at each time step:
 od=collections.OrderedDict(sorted(dates_companies_2008.items()))

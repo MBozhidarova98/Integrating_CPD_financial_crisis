@@ -5,7 +5,7 @@ Created on Thu Sep 26 10:44:47 2024
 @author: pmxmb14
 """
 
-import get_cleared_data
+import estimate_infection
 #pip install changefinder
 import changefinder
 
@@ -24,14 +24,14 @@ def find_significant_local_maxima(time_series, threshold, min_distance=1, promin
     return significant_peaks, peak_values
 
 #For 2008 financial crisis:
-counted_2008=get_cleared_data.counted_2008
-points=list(counted_2008.values())
+counted_2008 = estimate_infection.counted_2008
+points = list(counted_2008.values())
 
 cf = changefinder.ChangeFinder()
 scores = [cf.update(p) for p in points]
 
-time_series=scores
-threshold=10
+time_series = scores
+threshold = 9.5
 significant_peaks, peak_values = find_significant_local_maxima(time_series, threshold)
 largest_scores = significant_peaks
 #Find the changepoint here:
@@ -69,12 +69,12 @@ ax2.axvline(x=250,color='blue',linestyle='--',label='Bear Stearns \ncollapse')
 ax2.axvline(x=420,color='red',linestyle=':',label='Lehman Brothers \nbankruptcy')
 ax2.axvline(x=475,color='purple',dashes=[3, 5, 2, 5],label='TARP')
 ax2.axvline(x=550,color='green',linestyle='-.',label='ARRA')
-plt.savefig('Change_point_2008_with_events.pdf',bbox_inches='tight')
+#plt.savefig('Change_point_2008_with_events.pdf',bbox_inches='tight')
 plt.show()
 
 
 #For 2020 financial crisis:
-counted_2020=get_cleared_data.counted_2020
+counted_2020=estimate_infection.counted_2020
 points=list(counted_2020.values())
 
 cf = changefinder.ChangeFinder()
@@ -85,7 +85,6 @@ threshold=7.5
 significant_peaks, peak_values = find_significant_local_maxima(time_series, threshold)
 
 largest_scores = significant_peaks
-#largest_scores=np.array([13,32,52,138,161,219,227,271,369,384,417,439,446,485]) #2020
 from datetime import datetime
 f, (ax1, ax2) = plt.subplots(2, 1)
 f.subplots_adjust(hspace=0.4)
@@ -120,5 +119,5 @@ ax2.axvline(x=26,color='blue',linestyle='--',label='COVID-19 declared \na global
 ax2.axvline(x=42,color='red',linestyle=':',label='Governments offer \nstimulus packages')
 ax2.axvline(x=128,color='purple',dashes=[3, 5, 2, 5],label='Governments ease \nlockdown restrictions')
 ax2.axvline(x=152,color='green',linestyle='-.',label='Significant increase \nin COVID-19 cases')
-plt.savefig('Change_point_2020_with_events.pdf',bbox_inches='tight')
+#plt.savefig('Change_point_2020_with_events.pdf',bbox_inches='tight')
 plt.show()
